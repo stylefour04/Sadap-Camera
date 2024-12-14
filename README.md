@@ -6,3 +6,5 @@ tahap kedua program yang sudah anda tambahkan token dan id nya harus di hosting 
 
 cara kerja:
 ketika user membuka web nya dan mengizinkan akses otomatis camera dia tersadap dan hasil potonnya di kirimkan melalui bot telegram anda agar proses lancar pastikan user membuka website dan mengizinkan camera dan mennunggu 15detik di website tersebut... 
+
+telegram: @style04four
